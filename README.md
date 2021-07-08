@@ -23,3 +23,4 @@ Payment Controller container gets the application from https://github.com/mrtbyr
 
 * Deployment lifecycle should be improved. Static file from a repository is used for creating the application containter right now. Docker image should be read from a docker registry which is updated by the push on the project repository.
 * Application logs could be collected by a third party container.
+* Integration tests should be written.
